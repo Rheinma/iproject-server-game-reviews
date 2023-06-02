@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Elden Ring",
+    "releaseDate": "2022-02-25",
+    "imageUrl": "https://media.rawg.io/media/games/5ec/5ecac5cb026ec26a56efcc546364e348.jpg",
+    "rating": 95
+  },
+  {
+    "name": "Demon's Souls",
+    "releaseDate": "2020-11-12",
+    "imageUrl": "https://wallpapercave.com/wp/wp7322604.jpg",
+    "rating": 92
+  },
+  {
+    "name": "Bloodborne",
+    "releaseDate": "2015-03-24",
+    "imageUrl": "https://media.rawg.io/media/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg",
+    "rating": 92
+  },
+  {
+    "name": "Dark Souls",
+    "releaseDate": "2011-09-22",
+    "imageUrl": "https://media.rawg.io/media/games/582/582b5518a52f5086d15dde128264b94d.jpg",
+    "rating": 89
+  },
+  {
+    "name": "Dark Souls II",
+    "releaseDate": "2014-03-11",
+    "imageUrl": "https://media.rawg.io/media/games/651/6512783a214618584d144d5d852ba595.jpg",
+    "rating": 91
+  },
+  {
+    "name": "Dark Souls III",
+    "releaseDate": "2016-04-11",
+    "imageUrl": "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg",
+    "rating": 89
+  },
+  {
+    "name": "Nioh",
+    "releaseDate": "2017-02-07",
+    "imageUrl": "https://wallpapercave.com/dwp2x/wp2094194.jpg",
+    "rating": 88
+  },
+  {
+    "name": "Nioh 2",
+    "releaseDate": "2020-03-13",
+    "imageUrl": "https://wallpapercave.com/wp/wp8476514.png",
+    "rating": 85
+  },
+  {
+    "name": "Sekiro",
+    "releaseDate": "2019-03-22",
+    "imageUrl": "https://wallpapercave.com/dwp2x/wp7070191.jpg",
+    "rating": 90
+  }
+]
